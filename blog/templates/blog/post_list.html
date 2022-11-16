@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>HTML</title>
-</head>
-<body>
-<b><p>Hello world!</p></b>
-<p>new line</p>
-</body>
+<header>
+    <h1><a href="/">Django Blog</a></h1>
+</header>
+
+{% for Post in posts %}
+    <article>
+        <time>published: {{ Post.published_date }}</time>
+        <h2><a href="">{{ Post.title }}</a></h2>
+        <p>{{ Post.text|linebreaksbr }}</p>
+    </article>
+{% endfor %}
 </html>
