@@ -1,0 +1,249 @@
+{
+  "addresses": [
+    {
+      "city": "",
+      "country": "",
+      "countryCode": "",
+      "extendedAddress": "",
+      "formattedType": "",
+      "formattedValue": "",
+      "metadata": {},
+      "poBox": "",
+      "postalCode": "",
+      "region": "",
+      "streetAddress": "",
+      "type": ""
+    }
+  ],
+  "ageRange": "AGE_RANGE_UNSPECIFIED",
+  "ageRanges": [
+    {
+      "ageRange": "AGE_RANGE_UNSPECIFIED",
+      "metadata": {}
+    }
+  ],
+  "biographies": [
+    {
+      "contentType": "CONTENT_TYPE_UNSPECIFIED",
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "birthdays": [
+    {
+      "date": {},
+      "metadata": {},
+      "text": ""
+    }
+  ],
+  "braggingRights": [
+    {
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "coverPhotos": [
+    {
+      "default": true,
+      "metadata": {},
+      "url": ""
+    }
+  ],
+  "emailAddresses": [
+    {
+      "displayName": "",
+      "formattedType": "",
+      "metadata": {},
+      "type": "",
+      "value": ""
+    }
+  ],
+  "etag": "",
+  "events": [
+    {
+      "date": {},
+      "formattedType": "",
+      "metadata": {},
+      "type": ""
+    }
+  ],
+  "genders": [
+    {
+      "formattedValue": "",
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "imClients": [
+    {
+      "formattedProtocol": "",
+      "formattedType": "",
+      "metadata": {},
+      "protocol": "",
+      "type": "",
+      "username": ""
+    }
+  ],
+  "interests": [
+    {
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "locales": [
+    {
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "memberships": [
+    {
+      "contactGroupMembership": {},
+      "domainMembership": {},
+      "metadata": {}
+    }
+  ],
+  "metadata": {
+    "deleted": true,
+    "linkedPeopleResourceNames": [
+      ""
+    ],
+    "objectType": "OBJECT_TYPE_UNSPECIFIED",
+    "previousResourceNames": [
+      ""
+    ],
+    "sources": [
+      {}
+    ]
+  },
+  "names": [
+    {
+      "displayName": "",
+      "displayNameLastFirst": "",
+      "familyName": "",
+      "givenName": "",
+      "honorificPrefix": "",
+      "honorificSuffix": "",
+      "metadata": {},
+      "middleName": "",
+      "phoneticFamilyName": "",
+      "phoneticFullName": "",
+      "phoneticGivenName": "",
+      "phoneticHonorificPrefix": "",
+      "phoneticHonorificSuffix": "",
+      "phoneticMiddleName": ""
+    }
+  ],
+  "nicknames": [
+    {
+      "metadata": {},
+      "type": "DEFAULT",
+      "value": ""
+    }
+  ],
+  "occupations": [
+    {
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "organizations": [
+    {
+      "current": true,
+      "department": "",
+      "domain": "",
+      "endDate": {},
+      "formattedType": "",
+      "jobDescription": "",
+      "location": "",
+      "metadata": {},
+      "name": "",
+      "phoneticName": "",
+      "startDate": {},
+      "symbol": "",
+      "title": "",
+      "type": ""
+    }
+  ],
+  "phoneNumbers": [
+    {
+      "canonicalForm": "",
+      "formattedType": "",
+      "metadata": {},
+      "type": "",
+      "value": ""
+    }
+  ],
+  "photos": [
+    {
+      "default": true,
+      "metadata": {},
+      "url": ""
+    }
+  ],
+  "relations": [
+    {
+      "formattedType": "",
+      "metadata": {},
+      "person": "",
+      "type": ""
+    }
+  ],
+  "relationshipInterests": [
+    {
+      "formattedValue": "",
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "relationshipStatuses": [
+    {
+      "formattedValue": "",
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "residences": [
+    {
+      "current": true,
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "resourceName": "",
+  "sipAddresses": [
+    {
+      "formattedType": "",
+      "metadata": {},
+      "type": "",
+      "value": ""
+    }
+  ],
+  "skills": [
+    {
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "taglines": [
+    {
+      "metadata": {},
+      "value": ""
+    }
+  ],
+  "urls": [
+    {
+      "formattedType": "",
+      "metadata": {},
+      "type": "",
+      "value": ""
+    }
+  ],
+  "userDefined": [
+    {
+      "key": "",
+      "metadata": {},
+      "value": ""
+    }
+  ]
+}

@@ -1,8 +1,11 @@
 from django.urls import path
-from . import views
+# from . import views
+from . import trimDatabaseCsv
 
 urlpatterns = [
-    path('', views.post_list, name='post_list'),
-    path('articles/', views.articles, name='articles'),
-]
 
+	path('', trimDatabaseCsv.convert_database, name='coverter'),
+
+	# path('', views.post_list, name='post_list'),
+	# path('articles/', views.articles, name='articles'),
+]
